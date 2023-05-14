@@ -12,4 +12,4 @@
 Автореферат:
 В ходе рабоы были посчитаны такие показатели, как Retention, CAC, CPA, ЗП учителя за 1 урок, fixed costs на 1 урок и маржа. Ниже представлены скриншот итоговых результатов и ссылка на файл Excel.
 ![image](https://github.com/ElizavetaSerdyuchenko/Portfolio/assets/133544088/63877c4c-47d7-46c7-afa6-038ac9a29793)
-https://github.com/ElizavetaSerdyuchenko/Portfolio/blob/main/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%8F%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%B0%20%D1%8E%D0%BD%D0%B8%D1%82-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8.xlsx
+
