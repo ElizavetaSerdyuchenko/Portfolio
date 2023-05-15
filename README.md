@@ -22,6 +22,8 @@
 Автореферат: В ходе рабоы были посчитаны такие показатели, как Retention, CAC, CPA, цена подписки, fixed costs на 1 подписку и маржа, также предложен сценарий по выходу на 25 - ти процентную маржинальность. Ниже представлены скриншот итоговых результатов и ссылка на файл Excel.
 
 ![image](https://github.com/ElizavetaSerdyuchenko/Portfolio/assets/133544088/4365ad12-ec9c-4491-a093-eed4201f809f)
+
+https://github.com/ElizavetaSerdyuchenko/Portfolio/blob/main/%D0%94%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.xlsx
 Итог №1: юнит - экономика продукта следующая:
 Retention составил 80,6%;
 LT составил 5,15;
